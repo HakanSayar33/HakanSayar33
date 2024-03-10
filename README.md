@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan SAYAR</h1>
 <h3 align="center">A disciplined Full-Stack from Turkey</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React.js** **Node.js**
 
 - 🌱 I’m currently learning **React Native**
 
